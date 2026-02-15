@@ -110,7 +110,7 @@ int main(void)
   SSD1306_Init();
 
   // Message d'accueil (Avec les caractères qu'on a : 0-9 A-F)
-  SSD1306_WriteString("CA", 50, 0, 1); 
+  SSD1306_WriteString("ATTENTE CARTE", 50, 0, 1); 
   SSD1306_UpdateScreen();
   /* USER CODE END 2 */
 

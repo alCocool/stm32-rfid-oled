@@ -1,4 +1,3 @@
-
 # STM32 Blue Pill - Système de Contrôle d'Accès RFID
 
 > **Corentin** et **Khalil**
